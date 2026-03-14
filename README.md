@@ -26,6 +26,16 @@
 <br>http://tool.pfan.cn/m3u8?url=https://t27.cdn2020.com/video/m3u8/2024/04/07/a8fca597/index.m3u8
 <br>厚颜
 <br>http://tool.pfan.cn/m3u8?url=https://t27.cdn2020.com/video/m3u8/2024/08/15/991022ad/index.m3u8
+
+<br>三恭模特：
+<br>http://tool.pfan.cn/m3u8?url=https%3A%2F%2Ft26.cdn2020.com%2Fvideo%2Fm3u8%2F2023%2F07%2F18%2F02b70178%2Findex.m3u8
+<br>三恭港区：
+<br>http://tool.pfan.cn/m3u8?url=https%3A%2F%2Ft30.cdn2020.com%2Fvideo%2Fm3u8%2F2025%2F04%2F11%2F375e8546%2Findex.m3u8
+<br>黑川咖啡：
+<br>http://tool.pfan.cn/m3u8?url=https%3A%2F%2Ft26.cdn2020.com%2Fvideo%2Fm3u8%2F2023%2F12%2F29%2F1a3ca993%2Findex.m3u8
+<br>黑川沙龙：
+<br>http://tool.pfan.cn/m3u8?url=https%3A%2F%2Ft26.cdn2020.com%2Fvideo%2Fm3u8%2F2023%2F07%2F11%2F81cb203f%2Findex.m3u8
+
 <br>
 <br>综合1
 <br>https://transwww.saopinyi.com/cn/actresses/%E6%9D%BE%E4%B8%8B%E7%BA%B1%E8%8D%A3%E5%AD%90
